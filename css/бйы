@@ -1,0 +1,14 @@
+&.btn-square, &.btn-sm-square, &.btn-square, &.btn-lg-square, &.btn-square {
+            width: 38px;
+            height: 38px;
+        }
+
+        &.btn-sm-square, &.btn-sm-square, &.btn-sm-square, &.btn-lg-square, &.btn-sm-square{
+            width: 32px;
+            height: 32px;
+        }
+
+        &.btn-lg-square &.btn-sm-square, &.btn-lg-square, &.btn-lg-square, &.btn-lg-square{
+            width: 48px;
+            height: 48px;
+        }
